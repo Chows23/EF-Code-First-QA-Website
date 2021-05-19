@@ -1,7 +1,7 @@
 # EF-Code-First-QA-Website
 
 For this project it was created with the `C#` with `OOP` and interacting `MSSQL` with a `EF Code First` approach. 
-The programs used bck-end skills include Microsoft Visual Studio and Microsoft SQL Server Management Studio. 
+The programs used back-end skills include Microsoft Visual Studio and Microsoft SQL Server Management Studio. 
 
 create a QA (Question and Answer) website similar to StackOverflow, where users
 can ask and answer questions.
